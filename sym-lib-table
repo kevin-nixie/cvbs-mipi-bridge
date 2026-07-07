@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name "cvbs-mipi-bridge")(type "KiCad")(uri "${KIPRJMOD}/lib/cvbs-mipi-bridge.kicad_sym")(options "")(descr ""))
-)
